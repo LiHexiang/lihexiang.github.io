@@ -15,22 +15,22 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
+BASE_PATH : http://lihexiang.top
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 未来不迎，当下不杂，既过不恋
+title : Kevin Lee
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: Kevin Lee
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  email: lihexiang2012@163.com
+  github: LiHexiang
+  twitter: lihexiang
+  facebook: lihexiang
+  googleplus: +lihexiang
+  bio: "Hi, 我是Kevin Lee"
   uno-dbyll: /assets/images/avatar.jpg
